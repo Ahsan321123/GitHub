@@ -1,3 +1,5 @@
 this is text
 changes on server
 new changes
+ 
+we are in smart git
